@@ -1,0 +1,1 @@
+Sourced from https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats, which had the data under a CC0: Public Domain license. See more details about the license here: https://creativecommons.org/publicdomain/zero/1.0/
